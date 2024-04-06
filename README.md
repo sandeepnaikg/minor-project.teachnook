@@ -171,4 +171,8 @@ opacity: 0,7;
 </body>
 </html>
 output:
+<img width="1280" alt="Screenshot 2024-04-06 at 1 24 50 PM" src="https://github.com/sandeepnaikg/minor-project.teachnook/assets/132575953/c72511ee-aca8-4268-b4d6-0dea471b0ee8">
+<img width="1280" alt="Screenshot 2024-04-06 at 1 25 19 PM" src="https://github.com/sandeepnaikg/minor-project.teachnook/assets/132575953/d1b35409-59ee-4b46-82d2-3f426c191c3e">
+
+
 
